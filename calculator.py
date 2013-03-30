@@ -3,7 +3,6 @@
 #Author: Tyler Souza
 
 import sys
-#from sys import exit 
 import math
 
 #Greets user
